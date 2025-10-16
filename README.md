@@ -74,12 +74,6 @@
 
 ---
 
-### 🏆 Achievements & Highlights  
-
-![](https://github-profile-trophy.vercel.app/?username=Sudev0707&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Quote That Inspires Me  
 
 > “First, solve the problem. Then, write the code.” – John Johnson  
