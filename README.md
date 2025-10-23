@@ -8,7 +8,6 @@
 ### 🚀 About Me  
 - 🔭 Currently building **scalable Web & Mobile Apps** using **React, React Native, Node.js, and MongoDB**.  
 - 🌱 Learning & exploring **System Design**, **Backend Engineering (Node.js / Java)**, and **Cloud (AWS)**.  
-- 🎯 Goal: To join **Top Product-Based Companies (FAANG / MNCs)** with strong **Full-Stack** & **DSA** fundamentals.  
 - 💡 Passionate about developing **Developer Tools**, **Reusable Hooks**, and **Platforms** that solve real-world problems.  
 - 💬 Ask me about **React, React Native, Redux, or full-stack development**.  
 - ⚡ Fun Fact: I believe *clean code = happy users* 😊  
