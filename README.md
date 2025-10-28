@@ -73,13 +73,6 @@
 
 ---
 
-### ✍️ Quote That Inspires Me  
-
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ### 🔝 Top Contributed Repositories  
 
