@@ -78,11 +78,6 @@
 
 ---
 
-### 👀 Profile Visits  
-[![](https://visitcount.itsvg.in/api?id=Sudev0707&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 <p align="center">
   <i>“Crafting clean interfaces, writing scalable code, and building tools that empower developers.”</i>
 </p>
