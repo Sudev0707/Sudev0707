@@ -10,7 +10,6 @@
 - 🌱 Learning & exploring **System Design**, **Backend Engineering (Node.js / Java)**, and **Cloud (AWS)**.  
 - 💡 Passionate about developing **Developer Tools**, **Reusable Hooks**, and **Platforms** that solve real-world problems.  
 - 💬 Ask me about **React, React Native, Redux, or full-stack development**.  
-- ⚡ Fun Fact: I believe *clean code = happy users* 😊  
 
 ---
 
