@@ -4,7 +4,6 @@
 <h3 align="center">Frontend & Mobile Developer | React • React Native • MERN Stack</h3>
 
 ---
-
 ### 🚀 About Me  
 - 🔭 Currently building **scalable Web & Mobile Apps** using **React, React Native, Node.js, and MongoDB**.  
 - 🌱 Learning & exploring **System Design**, **Backend Engineering (Node.js / Java)**, and **Cloud (AWS)**.  
