@@ -69,13 +69,6 @@
 
 ---
 
-
-### 🔝 Top Contributed Repositories  
-
-![](https://github-contributor-stats.vercel.app/api?username=Sudev0707&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 <p align="center">
   <i>“Crafting clean interfaces, writing scalable code, and building tools that empower developers.”</i>
 </p>
