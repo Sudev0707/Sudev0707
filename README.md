@@ -81,43 +81,6 @@
 
 ---
 
-### 🏗️ Full-Stack Development
-
-```text
-Frontend
-├── React
-├── React Native
-├── TypeScript
-├── Redux
-└── Tailwind / Bootstrap
-
-Backend
-├── Java
-│   ├── Spring Boot
-│   ├── Spring
-│   ├── Hibernate / JPA
-│   └── REST APIs
-│
-└── Node.js
-    ├── Express.js
-    └── REST APIs
-
-Databases
-├── MySQL
-├── PostgreSQL
-├── MongoDB
-└── SQLite
-
-DevOps & Cloud
-├── Git / GitHub
-├── Docker
-├── AWS
-├── Vercel
-└── CI/CD
-```
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
